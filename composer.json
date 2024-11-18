@@ -1,0 +1,18 @@
+{
+    "autoload": {
+        "psr-4": {
+            "Novanta\\Customsorting\\": "src/"
+        }
+    },
+    "config": {
+        "prepend-autoloader": false
+    },
+    "require-dev": {
+        "prestashop/php-dev-tools": "^5.0",
+        "friendsofphp/php-cs-fixer": "^3.58",
+        "prestashop/autoindex": "^2.1",
+        "prestashop/header-stamp": "^2.3"
+    },
+    "author": "PrestaShop",
+    "license": "AFL-3.0"
+}

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file original="admin180u0y3jo" source-language="it-IT" target-language="it-IT" datatype="plaintext">
+    <body>
+      <trans-unit id="41e5afcffa7ff1016eb73fb3ca47eea2">
+        <source>Custom Sorting</source>
+        <target>Ordinamento Personalizzato</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="db0f29958de7238d7f1b8d6230832f56">
+        <source>Adding feature to customize product sorting</source>
+        <target>Aggiunge le funzionalità per personalizzare l'ordinamento dei prodotti.</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="c8212b177f8897d24052a18b39581602">
+        <source>Are you sure you want to uninstall module</source>
+        <target>Sei sicuro di voler disinstallare il modulo</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="11ff9f68afb6b8b5b8eda218d7c83a65">
+        <source>Sales</source>
+        <target>Vendite</target>
+        <note>Line: </note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
